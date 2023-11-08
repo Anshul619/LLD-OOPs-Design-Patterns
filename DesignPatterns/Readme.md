@@ -2,10 +2,10 @@
 
 ## Sample design patterns implementation
 
-| Programming Language                                               |
-|--------------------------------------------------------------------|
-| [Go](https://github.com/Anshul619/golang/tree/main/DesignPatterns) |
-| [Java](DesignPatternsJava)                                         |
+| Programming Language                                                                           |
+|------------------------------------------------------------------------------------------------|
+| [Go](https://github.com/Anshul619/golang/tree/main/DesignPatterns)                             |
+| [Java](https://github.com/Anshul619/Programming-Languages/tree/main/1_Java/DesignPatternsJava) |
 
 ## Factory pattern
 - It is part of `Creational Design Pattern` type.
@@ -14,7 +14,7 @@
 - Example - DB design, NotificationFactory etc.
 - [Read more](https://www.geeksforgeeks.org/factory-method-design-pattern-in-java/)
 
-![img.png](DesignPatternsJava/FactoryDesignPattern/assests/img.png)
+![img.png](assets/FactoryDesignPattern.png)
 
 ## Adapter pattern
 - It is part of `Structural Design Pattern` type.
@@ -26,7 +26,7 @@
 - Adapter delegates all requests to Adaptee.
 - [Read more](https://www.geeksforgeeks.org/adapter-pattern/)
 
-![img.png](DesignPatternsJava/AdapterDesignPattern/assests/img.png)
+![img.png](assets/AdapterDesignPattern.png)
 
 ## Template pattern
 - It is part of `Behavior Design Pattern` type.
@@ -58,7 +58,7 @@ Disadvantages
 - Constructor chaining is the process of calling one constructor from another constructor with respect to current object.
 - [Read more](https://www.geeksforgeeks.org/constructor-chaining-java-examples/)
 
-![img.png](DesignPatternsJava/assests/constructorchaining_img.png)
+![](assets/ConstructorChaining.png)
 
 Constructor chaining can be done in two ways:
 - Within same class: It can be done using this() keyword for constructors in same class

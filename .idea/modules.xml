@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignProblems/OOPDesignProblems.iml" filepath="$PROJECT_DIR$/DesignProblems/OOPDesignProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPs-Design-Patterns-LLD.iml" filepath="$PROJECT_DIR$/OOPs-Design-Patterns-LLD.iml" />
     </modules>
