@@ -1,7 +1,7 @@
 
 # Various Languages
 
-| Feature           | :star: [GoLang](https://github.com/Anshul619/golang) | [Java](2_Java)                                                                             | Node, Python, PHP |
+| Feature           | :star: [GoLang](https://github.com/Anshul619/golang) | [Java](1_Java)                                                                             | Node, Python, PHP |
 |-------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------|
 | Multi-Threaded?   | :white_check_mark: Yes, through GoRoutine            | :white_check_mark: Yes                                                                     | No                |
 | Statically Typed? | :white_check_mark: Yes                               | :white_check_mark: Yes                                                                     | No                |
