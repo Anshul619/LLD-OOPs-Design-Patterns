@@ -1,6 +1,6 @@
 # Object Oriented Programming
 
-![img.png](assests/oops_img.png)
+![img.png](assets/oops_img.png)
 
 # OOP Principles
 
