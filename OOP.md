@@ -14,7 +14,7 @@
 | Composition/Association  | The composition represents the relationship where one object contains other objects as a part of its state.                                                                                                                             |                                                             |
 
 # Other links
-- [OOPs in Go](https://github.com/Anshul619/golang/tree/main/OOPsGo)
+- [OOPs in Go](https://github.com/Anshul619/golang/tree/main/OOPs)
 - [Interface vs Abstract](InterfaceVsAbstract.md)
 
 # Abstraction - Example code

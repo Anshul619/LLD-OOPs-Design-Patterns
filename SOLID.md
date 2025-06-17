@@ -13,7 +13,7 @@
 | D - Dependency Inversion Principle                 | This principle suggests that classes should depend on abstraction but not on concretion.<br/>- What does it mean that we should be having an object of interface which helps us to communicate with the concrete classes.                                                                                                        |
 
 # Other links 
-- [SOLID in Go](https://github.com/Anshul619/golang/tree/main/OOPsGo)
+- [SOLID in Go](https://github.com/Anshul619/golang/tree/main/SOLID.md)
 
 # References
 - [SOLID Principles — explained with examples](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
