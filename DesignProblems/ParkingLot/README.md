@@ -11,6 +11,7 @@
 - The system should support parking for different types of vehicles like car, truck, van, motorcycle, etc.
 - Each parking floor should have a display board showing any free parking spot for each spot type.
 - The system should support a per-hour parking fee model. For example, customers have to pay $4 for the first hour, $3.5 for the second and third hours, and $2.5 for all the remaining hours.
+- Asked in Alation interview round, 7thJuly2022
 
 # Actors
 - Admin: Mainly responsible for adding and modifying parking floors, parking spots, entrance, and exit panels, adding/removing parking attendants, etc.
@@ -27,9 +28,6 @@
 - Credit card payment: To pay the ticket fee with credit card.
 - Cash payment: To pay the parking ticket through cash.
 - Add/Modify parking rate: To allow admin to add or modify the hourly parking rate.
-
-# Class Diagram
-![img.png](assests/class_diagram_parking_lot.png)
 
 # References
 - https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z
