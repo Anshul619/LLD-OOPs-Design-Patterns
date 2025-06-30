@@ -9,7 +9,7 @@
 - Proceed with the booking
 
 # Class Diagram
-![img.png](assests/class_diagram_img.png)
+![img.png](assets/class_diagram_img.png)
 
 # Important Points
 - ShowSeats would have "Show" & seat availability properties.

@@ -28,7 +28,7 @@ Even if you're allowed to use Go, think in OOP terms during LLD:
     - `BookingController` will handle the booking requests and send a request to the `BookingManager` to book movie seats.
     - `BookingManager` will then interact with the `PaymentProcessor` for completing the payment.
 
-![](DesignProblems/BookMyShow/assests/booking_controller_img.png)
+![](DesignProblems/BookMyShow/assets/booking_controller_img.png)
 
 # Define abstract classes
 - Common, reusable classes which can be extended for various business Actors, UCS etc.

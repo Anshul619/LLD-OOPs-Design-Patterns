@@ -1,10 +1,5 @@
 package DesignLLDProblems.SnackAndLadderGame;
 
-import DesignLLDProblems.SnackAndLadderGame.domains.Board;
-import DesignLLDProblems.SnackAndLadderGame.domains.User;
-
-import java.util.*;
-
 /**
  * Asked in Amazon, 29thJune2022
  *
@@ -18,6 +13,10 @@ import java.util.*;
  * - https://www.geeksforgeeks.org/design-snake-game/?ref=lbp
  */
 
+import DesignLLDProblems.SnackAndLadderGame.domains.Board;
+import DesignLLDProblems.SnackAndLadderGame.domains.User;
+
+import java.util.*;
 public class SnakeLadder {
     public Board board;
     List<User> users = new ArrayList<>();
