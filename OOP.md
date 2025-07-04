@@ -8,9 +8,9 @@
 |--------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 | Inheritance - Extends    | To indicate that the class which is being defined is derived from the base class using inheritance                           | `extends` keyword (multiple inheritance extend not allowed) |
 | Inheritance - Implements | An interface is a special type of class which implements a complete abstraction and only contains abstract methods.          | `implements` keyword (multiple inheritance impl allowed)    |
-| Polymorphism             | If one task is performed in different ways, it is known as polymorphism.                                                     | Method overloading and overriding                           |
-| Abstraction              | Hiding internal details and showing functionality is known as abstraction.                                                   | Abstract class and interface                                |
 | Encapsulation            | A process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines. | Private, setter, getter                                     |
+| Abstraction              | Hiding internal details and showing functionality is known as abstraction.                                                   | Abstract class and interface                                |
+| Polymorphism             | If one task is performed in different ways, it is known as polymorphism.                                                     | Method overloading and overriding                           |
 | Composition/Association  | The composition represents the relationship where one object contains other objects as a part of its state.                                                                                                                             |                                                             |
 
 # Other links
