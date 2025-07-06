@@ -1,6 +1,4 @@
-# Interface vs Abstract
-
-## Abstract
+# Abstract
 
 Consider using `abstract` classes if any of these statements apply to your situation:
 - In the java application, there are some related classes that need to share some lines of code then you can put these lines of code within the abstract class and this abstract class should be extended by all these related classes.
@@ -8,7 +6,7 @@ Consider using `abstract` classes if any of these statements apply to your situa
 - You can expect that the classes that extend an abstract class have many common methods or fields, or require access modifiers other than public (such as protected and private).
 - Example - `Person` class as abstract class. And `User`, `Admin` classes extending the `Person` class.
 
-## Interface
+# Interface
 
 Consider using `interfaces` if any of these statements apply to your situation:
 - It is total abstraction, all methods declared within an interface must be implemented by the class(es) that implements this interface.
