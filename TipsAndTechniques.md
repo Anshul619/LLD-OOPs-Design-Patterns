@@ -6,9 +6,10 @@
 - Think from `user perspective` & `use cases`.
 
 # Choose Language
-- Ask if you can use golang for LLD design. But be prepared with java OOP design if interviewer say no.
+- Ask if you can use golang for LLD design. 
+- But be prepared with java OOP design if interviewer say no.
 
-Even if you're allowed to use Go, think in OOP terms during LLD:
+Even if you're allowed to use Go, think in OOP terms during LLD
 - Model entities (e.g. ParkingLot, Slot, Vehicle) using structs + interfaces
 - Mimic patterns like [Strategy](DesignPatterns/Readme.md), [Factory](DesignPatterns/Readme.md), or [Observer](DesignPatterns/Readme.md).
 - Show how you'd structure code for testability, extensibility, and clean separation of concerns
